@@ -10,4 +10,3 @@ dependencies:
   - IPython
   - requests
   - geopandas
-  - IPython.display
