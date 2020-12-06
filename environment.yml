@@ -9,8 +9,5 @@ dependencies:
   - traitlets
   - IPython
   - requests
-  - json
   - geopandas
-  - more_itertools
-  - matplotlib.pyplot
   - IPython.display
